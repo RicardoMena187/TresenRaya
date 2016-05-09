@@ -182,7 +182,7 @@ if ((all==0)&&(pause==0)) myChoice();
    }
 }
 function taken() {
-alert("La casilla estÃ¡ ocupada, eliga otra casilla")
+alert("La casilla estÃÂ¡ ocupada, eliga otra casilla")
 pause=1;
 }
 function myChoice() {
@@ -210,7 +210,7 @@ document.images[temp].src= o;
 process();
 }
 function ended() {
-alert("El juego ha sido finalizado. Para Jugar de nuevo realiza un clic en el botÃ³n jugar.")
+alert("El juego ha sido finalizado. Para Jugar de nuevo realiza un clic en el botÃÂ³n jugar.")
 }
 function process() {
 logicOne();
@@ -225,7 +225,7 @@ document.game.ties.value = ts;
 }
 function playAgain() {
 if (all==0) {
-if(confirm("El Juego empezarÃ¡ de Nuevo y limpiaremos todos los resultados. Ok?")) reset();
+if(confirm("El Juego empezarÃÂ¡ de Nuevo y limpiaremos todos los resultados. Ok?")) reset();
 }
 if (all>0) reset();
 }
@@ -301,7 +301,7 @@ reset();
       <table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tr> 
           <td> 
-            <div align="right"><img src="logo-3raya.jpg" width="169" height="55"></div>
+            <div align="right"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/245px-Tic_tac_toe.svg.png"></div>
           </td>
         </tr>
         <tr> 
@@ -353,3 +353,4 @@ reset();
 </table></form>
 </body>
 </html>
+
