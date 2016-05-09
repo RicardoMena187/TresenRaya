@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-<title>3 en Raya</title>
+<title>3 en Raya RM</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <style type="text/css">
 <!--
