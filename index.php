@@ -12,13 +12,13 @@
 </style>
 <SCRIPT LANGUAGE="JavaScript">
 <!-- Begin
-var x = "x-3raya.jpg";
+var x = "https://upload.wikimedia.org/wikipedia/en/5/51/Stop_X.png";
 // Location of where you uploaded your site's x.jpg image
 
-var o = "o-3raya.jpg";
+var o = "http://www.really-learn-english.com/image-files/long-o-sound.jpg";
 // Location of where you uploaded your site's o.jpg image
 
-var blank = "blanco-3raya.jpg";
+var blank = "http://1.bp.blogspot.com/-bjvPl2deZS8/UQSSiHdsKCI/AAAAAAAAPjU/0vuRkgsFo9w/s1600/Blanco+Lady+Pink+(1).gif";
 // Location of where you uploaded your site's blank.jpg image
 
 var pause = 0;
@@ -182,7 +182,7 @@ if ((all==0)&&(pause==0)) myChoice();
    }
 }
 function taken() {
-alert("La casilla está ocupada, eliga otra casilla")
+alert("La casilla estÃ¡ ocupada, eliga otra casilla")
 pause=1;
 }
 function myChoice() {
@@ -210,7 +210,7 @@ document.images[temp].src= o;
 process();
 }
 function ended() {
-alert("El juego ha sido finalizado. Para Jugar de nuevo realiza un clic en el botón jugar.")
+alert("El juego ha sido finalizado. Para Jugar de nuevo realiza un clic en el botÃ³n jugar.")
 }
 function process() {
 logicOne();
@@ -225,7 +225,7 @@ document.game.ties.value = ts;
 }
 function playAgain() {
 if (all==0) {
-if(confirm("El Juego empezará de Nuevo y limpiaremos todos los resultados. Ok?")) reset();
+if(confirm("El Juego empezarÃ¡ de Nuevo y limpiaremos todos los resultados. Ok?")) reset();
 }
 if (all>0) reset();
 }
@@ -296,7 +296,7 @@ t--;
       <table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tr> 
           <td> 
-            <div align="right"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/245px-Tic_tac_toe.svg.png" width="169" height="55"></div>
+            <div align="right"><img src="logo-3raya.jpg" width="169" height="55"></div>
           </td>
         </tr>
         <tr> 
