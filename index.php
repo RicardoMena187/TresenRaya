@@ -258,11 +258,16 @@ document.images.I.src= blank;
 if (t==0) { t=2; myChoice(); }
 t--;
 }
+function playAgain1() {
+reset();
+}
+
+
 //  End -->
 </script>
 </head>
 
-<body onload="playAgain()" bgcolor="#CCCCCC" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<body onload="playAgain1()" bgcolor="#CCCCCC" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <form name=game><table width="576" border="0" cellspacing="0" cellpadding="0" height="310">
   <tr> 
     <td width="11">&nbsp;</td>
