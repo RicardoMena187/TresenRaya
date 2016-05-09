@@ -296,7 +296,7 @@ t--;
       <table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tr> 
           <td> 
-            <div align="right"><img src="logo-3raya.jpg" width="169" height="55"></div>
+            <div align="right"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/245px-Tic_tac_toe.svg.png" width="169" height="55"></div>
           </td>
         </tr>
         <tr> 
