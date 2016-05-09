@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-<title>3 en Raya RM</title>
+<title>3 en Raya </title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <style type="text/css">
 <!--
@@ -262,7 +262,7 @@ t--;
 </script>
 </head>
 
-<body bgcolor="#CCCCCC" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<body onload="playAgain()" bgcolor="#CCCCCC" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <form name=game><table width="576" border="0" cellspacing="0" cellpadding="0" height="310">
   <tr> 
     <td width="11">&nbsp;</td>
